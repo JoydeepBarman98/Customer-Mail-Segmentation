@@ -1,1 +1,1 @@
-# Customer-Mail-Segmentation
+# Customer-Mall-Segmentation
